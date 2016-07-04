@@ -1,0 +1,21 @@
+[2016-06-13 10:36:16] WARNING: Form 190 > ***************arkinfotech.com is already subscribed to the selected list(s)
+[2016-06-13 11:12:29] WARNING: Form 190 > ************infotech.com is already subscribed to the selected list(s)
+[2016-06-14 08:16:44] ERROR: Form 190 > MailChimp API error: List_RoleEmailMember: abc@gmail.com is an invalid email address and cannot be imported.
+[2016-06-14 08:16:59] ERROR: Form 190 > MailChimp API error: List_RoleEmailMember: abc@gmail.com is an invalid email address and cannot be imported.
+[2016-06-14 08:18:26] ERROR: Form 190 > MailChimp API error: List_RoleEmailMember: abc@gmail.com is an invalid email address and cannot be imported.
+[2016-06-14 08:23:54] ERROR: Form 190 > MailChimp API error: List_RoleEmailMember: abc@gmail.com is an invalid email address and cannot be imported.
+[2016-06-14 08:32:03] ERROR: Form 190 > MailChimp API error: List_RoleEmailMember: abc@gmail.com is an invalid email address and cannot be imported.
+[2016-06-14 08:34:16] ERROR: Form 190 > MailChimp API error: List_RoleEmailMember: abc@gmail.com is an invalid email address and cannot be imported.
+[2016-06-14 10:31:43] ERROR: Form 190 > MailChimp API error: List_RoleEmailMember: abc@gmail.com is an invalid email address and cannot be imported.
+[2016-06-14 10:50:27] ERROR: Form 190 > MailChimp API error: List_RoleEmailMember: abc@gmail.com is an invalid email address and cannot be imported.
+[2016-06-14 10:50:44] ERROR: Form 190 > MailChimp API error: List_RoleEmailMember: abc@gmail.com is an invalid email address and cannot be imported.
+[2016-06-14 10:53:17] ERROR: Form 190 > MailChimp API error: List_RoleEmailMember: abc@gmail.com is an invalid email address and cannot be imported.
+[2016-06-14 10:53:36] ERROR: Form 190 > MailChimp API error: List_RoleEmailMember: abc@gmail.com is an invalid email address and cannot be imported.
+[2016-06-14 10:53:45] ERROR: Form 190 > MailChimp API error: List_RoleEmailMember: abc@gmail.com is an invalid email address and cannot be imported.
+[2016-06-14 10:56:32] ERROR: Form 190 > MailChimp API error: List_RoleEmailMember: abc@gmail.com is an invalid email address and cannot be imported.
+[2016-06-14 10:56:45] ERROR: Form 190 > MailChimp API error: List_RoleEmailMember: abc@gmail.com is an invalid email address and cannot be imported.
+[2016-06-14 10:57:05] ERROR: Form 190 > MailChimp API error: List_RoleEmailMember: abc@gmail.com is an invalid email address and cannot be imported.
+[2016-06-21 11:51:39] ERROR: Form 190 > MailChimp API error: Error connecting to MailChimp. Operation timed out after 10001 milliseconds with 0 bytes received
+[2016-06-22 04:04:57] ERROR: Form 190 > MailChimp API error: List_RoleEmailMember: abc@gmail.com is an invalid email address and cannot be imported.
+[2016-06-22 04:06:00] ERROR: Form 190 > MailChimp API error: List_RoleEmailMember: abc@gmail.com is an invalid email address and cannot be imported.
+[2016-06-22 04:06:07] ERROR: Form 190 > MailChimp API error: The domain portion of the email address is invalid (the portion after the @: gmail.com1)
