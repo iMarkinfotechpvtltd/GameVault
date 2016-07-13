@@ -18,7 +18,7 @@ Template Name: School Incursions
       <img src="<?php echo $url = $thumb['0'];?>" alt="...." />
        <h3><?php the_field('school_incursion_heading',176); ?></h3>
        <?php the_field('school_incursion_content',176); ?>
-      
+      <div class="submit-wrap btn-green rev" ><a class="btn btn-default btn-read-more" href="<?php echo site_url(); ?>/contact">Book Now</a></div>
        
      </div>
    </div>   <!--row close--> 

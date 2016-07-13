@@ -18,7 +18,7 @@ Template Name: Vacation
       <img src="<?php echo $url = $thumb['0'];?>" alt="...." />
        <h3><?php the_field('vocation_heading',173); ?></h3>
        <?php the_field('vocation_content',173); ?>
-      
+      <div class="submit-wrap btn-green rev" ><a class="btn btn-default btn-read-more" href="<?php echo get_site_url(); ?>/contact">Book Now</a></div>
        
      </div>
    </div>   <!--row close--> 

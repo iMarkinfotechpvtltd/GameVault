@@ -55,10 +55,10 @@ Template Name: Gallery
    
    <div class="image-gallery">
      <h3>PHOTOS</h3>
-    <div class="row div1">
+    <?php ?>    <div class="images-carousel div1">
 	<?php 
 		$args = array('post_type'      => 'images',
-					  'posts_per_page' => 4,
+					  'posts_per_page' => -1,
 					  'order'          => 'DESC',
 					  'offset'         =>  0 
 					 );
@@ -67,14 +67,10 @@ Template Name: Gallery
 				$url = wp_get_attachment_url( get_post_thumbnail_id($image->ID) )?>
 				<div class="col-xs-6 col-md-3 asd" >
 					<a href="<?php echo $url ?>" data-lightbox="roadtrip"><img src="<?php echo $url ?>"></a>  
-				</div> <!--col-xs-12-->
+				</div> 
 		<?php endwhile; wp_reset_query(); ?>
-    </div> <!--row-->
-	
-	<input type="hidden" name="page_val" id="page_val" value="2"> 
-	<input type="hidden" name="page_val" id="total_rec" value="<?php echo $image->found_posts; ?>">
-    <div class="submit-wrap" ><a href="javascript:void(0);" class="btn btn-default btn-read-more" onclick="pagination();">Load More</a></div>
-	<img src="<?php bloginfo('template_url'); ?>/images/loader.gif" id="loader" style="display:none;" />
+    </div> 
+    
    </div> <!--image-gallery-->
       
   </div> <!--container-->

@@ -29,9 +29,8 @@ Template Name: Contact Us
       
       <div class="col-xs-12 col-md-4">
          <div class="round-box">
-           <span class="icons location"></span>
-           <p><?php the_field('address_line1',61); ?> <br>
-               <?php the_field('address_line2',61); ?> <br><?php the_field('address_line3',61); ?></p>
+           <span class="facebook"></span>
+           <a href="https://www.facebook.com/gamevaultperth/" target="_blank"><p>Like us on Facebook</p></a>
          </div> <!--round-box-->
       </div> <!--col-xs-12 col-md-3-->
       

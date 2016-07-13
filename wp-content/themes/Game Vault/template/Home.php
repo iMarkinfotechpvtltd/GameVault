@@ -64,7 +64,9 @@ function get_numerics ($str)
      
      <div class="button-section">
        <img src="<?php echo esc_url(get_template_directory_uri());?>/images/left-border.svg" alt="..." />
-       <a class="btn btn-default btn-book" href="<?php echo site_url(); ?>/contact">book now</a>
+        <div class="btn btn-default btn-book"> 
+          <a href="<?php echo site_url(); ?>/contact">book now</a>
+        </div> 
         <img src="<?php echo esc_url(get_template_directory_uri());?>/images/right-border.svg" alt="..." />
      </div> <!--button-section Close-->
   </div>

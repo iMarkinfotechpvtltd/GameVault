@@ -17,18 +17,19 @@ Template Name: BirthdayParties
       <img src="<?php echo $url = $thumb['0'];?>" alt="...." />
        <h3><?php the_field('birthday_section_heading',71); ?></h3>
        <?php the_field('birthday_section_content',71); ?>
-      
+     
        
      </div>
+     <div class="submit-wrap btn-green rev"><a class="btn btn-default btn-read-more" href="<?php echo site_url(); ?>/contact">Book Now</a></div>
    </div>   <!--row close--> 
-
+ 
    
   </div> <!--container-->
 </div> <!--event-section Close-->
 
 <div class="pricing-section">
   <div class="container">
-    <h2>pricing</h2>
+    <h2>BIRTHDAY PARTY PRICING</h2>
     
     <div class="row"> 
       <div class="col-xs-12 col-md-6">

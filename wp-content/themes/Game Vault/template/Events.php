@@ -37,10 +37,7 @@ Template Name: Events
 
 
 
-<!--**********Testimonial section start ************-->
 
-<?php get_sidebar('testimonial'); ?>
-<!--**********Testimonial section start ************-->
 
 <div class="corporates-event">
   <div class="container">
@@ -78,4 +75,8 @@ Template Name: Events
      </div> <!--row Close-->
   </div> 
 </div> <!--corporates-event Close-->
+<!--**********Testimonial section start ************-->
+
+<?php get_sidebar('testimonial'); ?>
+<!--**********Testimonial section start ************-->
 <?php get_footer(); ?>

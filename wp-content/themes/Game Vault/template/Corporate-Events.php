@@ -22,7 +22,7 @@ function get_numerics ($str)
       <img src="<?php echo $url = $thumb['0'];?>" alt="...." />
        <h3><?php the_field('title_after_heading',191); ?></h3>
        <?php the_field('content',191); ?>
-      
+      <div class="submit-wrap btn-green rev" ><a class="btn btn-default btn-read-more" href="<?php echo site_url(); ?>/contact">Book Now</a></div>
        
      </div>
    </div>   <!--row close--> 
@@ -36,7 +36,7 @@ function get_numerics ($str)
 
 <div class="blog-section padd"> 
   <div class="container">         
-   <div class="image-gallery">
+   <div class="image-gallery cp-section">
      <h2>Past Clients</h2>
     <div class="row">
 		<?php //echo $post->ID;
@@ -60,9 +60,6 @@ function get_numerics ($str)
  </div>
 </div>  
 
-
-
- 
 <!-- fetch the testimonial -->
 	<?php get_sidebar('testimonial'); ?>
 

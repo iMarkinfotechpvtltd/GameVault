@@ -7,7 +7,7 @@ Template Name: Pricing
 
 <div class="pricing-section">
   <div class="container">
-    <h2>pricing</h2>
+    <h2>Birthday party pricing</h2>
     
     <div class="row"> 
       <div class="col-xs-12 col-md-6">
